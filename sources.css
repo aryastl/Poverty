@@ -1,7 +1,14 @@
+body {
+  background-color: #EFF0F0;
+}
+}
 h1 {
   font-family: monospace;
-  font-size: 18px;
+  font-size: 20px;
+  color: #4A5968;
 }
 a {
-  font-family
+  font-family: monospace;
+  font-size: 16px;
+  color: black;
 }
